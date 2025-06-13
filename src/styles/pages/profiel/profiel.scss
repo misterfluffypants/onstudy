@@ -1,0 +1,47 @@
+.continue__greeting {
+	// margin: calc(var(--index) * 8) 0 calc(var(--index) * 3);
+	padding-top: calc(var(--index) * 8);
+
+	.row {
+		display: flex;
+		column-gap: 30px;
+
+		.greeting {
+			width: calc(var(--index) * 37);
+
+			.greeting__user {
+				font-size: calc(var(--index) * 2.3);
+				color: #AF44F6;
+			}
+
+			.greeting__text {
+				width: calc(var(--index) * 30);
+				font-size: calc(var(--index) * .9);
+				margin: calc(var(--index) * 1) 0 calc(var(--index) * 5);
+			}
+		}
+
+	}
+
+	.users__courses {
+		font-size: calc(var(--index) * 2.1);
+		color: #AF44F6;
+	}
+
+	.users__courses-row {
+		display: flex;
+		flex-wrap: wrap;
+		gap: calc(var(--index) * 1) calc(var(--index) * .68);
+		margin: calc(var(--index) * 2) 0 calc(var(--index) * 4);
+	}
+
+	.user__dont-have {
+		text-align: center;
+		font-size: calc(var(--index) * 1);
+		margin-top: calc(var(--index) * 5);
+
+		.buy__course {
+			color: #AF44F6;
+		}
+	}
+}

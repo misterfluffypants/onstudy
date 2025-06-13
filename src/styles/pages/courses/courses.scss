@@ -1,0 +1,31 @@
+.courses {
+	.all__courses {
+		padding-top: calc(var(--index) * 7);
+
+		.all__courses-title {
+			font-size: calc(var(--index) * 2.1);
+			color: #AF44F6;
+		}
+
+		.row {
+			display: flex;
+			flex-wrap: wrap;
+			gap: calc(var(--index) * 1) calc(var(--index) * .68);
+			margin: calc(var(--index) * 2) 0 calc(var(--index) * 4);
+		}
+	}
+
+	.free__courses {
+		.free__courses-title {
+			font-size: calc(var(--index) * 2.1);
+			color: #AF44F6;
+		}
+
+		.row {
+			display: flex;
+			flex-wrap: wrap;
+			gap: calc(var(--index) * 1) calc(var(--index) * .68);
+			margin-top: calc(var(--index) * 2);
+		}
+	}
+}

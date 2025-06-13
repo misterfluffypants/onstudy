@@ -1,0 +1,67 @@
+@media (max-width: 1346px) and (min-width: 1075px) {}
+
+@media (max-width: 1075px) and (min-width: 900px) {}
+
+@media (max-width: 900px) and (min-width: 768px) {}
+
+@media (max-width: 768px) and (min-width: 620px) {}
+
+@media (max-width: 620px) and (min-width: 509px) {
+	.statistics .box__flex {
+		display: block;
+	}
+
+	.statistics .box__flex .choise__text {
+		font-size: calc(var(--index) * 1.5);
+		margin-bottom: calc(var(--index) * 1.4);
+	}
+
+	.box__flex .statistics__statistic {
+		width: 100%;
+	}
+}
+
+@media (max-width: 509px) and (min-width: 410px) {
+	.statistics .box__flex {
+		display: block;
+	}
+
+	.statistics .box__flex .choise__text {
+		font-size: calc(var(--index) * 1.256);
+		margin-bottom: calc(var(--index) * 1.4);
+	}
+
+	.box__flex .statistics__statistic {
+		width: 100%;
+	}
+}
+
+@media (max-width: 410px) and (min-width: 320px) {
+	.statistics .box__flex {
+		display: block;
+	}
+
+	.statistics .box__flex .choise__text {
+		font-size: calc(var(--index) * 1.25);
+		margin-bottom: calc(var(--index) * 1.4);
+	}
+
+	.box__flex .statistics__statistic {
+		width: 100%;
+	}
+}
+
+@media (max-width: 320px) and (min-width: 220px) {
+	.statistics .box__flex {
+		display: block;
+	}
+
+	.statistics .box__flex .choise__text {
+		font-size: calc(var(--index) * 1.5);
+		margin-bottom: calc(var(--index) * 1.4);
+	}
+
+	.box__flex .statistics__statistic {
+		width: 100%;
+	}
+}

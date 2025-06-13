@@ -1,0 +1,296 @@
+@media (max-width: 1346px) and (min-width: 1075px) {}
+
+@media (max-width: 1075px) and (min-width: 900px) {}
+
+@media (max-width: 900px) and (min-width: 768px) {}
+
+@media (max-width: 768px) and (min-width: 620px) {
+	.login__main .login .form {
+		width: calc(var(--index) * 20);
+	}
+
+	.login__main .login .form .login__btn {
+		text-align: center;
+	}
+
+	.login__main .login .form .login__button {
+		width: calc(var(--index) * 16);
+		height: calc(var(--index) * 2.5);
+		font-size: calc(var(--index) * .9);
+	}
+
+	.login__main .login .form .input__box .login__input {
+		width: calc(var(--index) * 16);
+		height: calc(var(--index) * 2.5);
+		font-size: calc(var(--index) * .9);
+	}
+
+	.login__main .login .form .button {
+		width: calc(var(--index) * 16);
+		height: calc(var(--index) * 2.5);
+	}
+
+	.login__main .login .form .button a {
+		font-size: calc(var(--index) * .9);
+	}
+}
+
+@media (max-width: 620px) and (min-width: 509px) {
+	.login__main .login .form {
+		width: 100%;
+		height: 100vh;
+	}
+
+	.login__main .login {
+		display: flex;
+	}
+
+	form.form__org {
+		margin-top: calc(var(--index) * 2.5);
+	}
+
+	.login__main .login .form .logo__block .logo {
+		width: calc(var(--index) * 5);
+	}
+
+	.login__main .login .form .logo__block .login__title {
+		font-size: calc(var(--index)* 2.3);
+	}
+
+	.login__main .login .form .input__box {
+		row-gap: calc(var(--index) * 1.5);
+		margin-bottom: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .input__box .login__input {
+		width: 100%;
+		height: calc(var(--index) * 5);
+		font-size: calc(var(--index) * 1.5);
+		padding-left: calc(var(--index) * 2);
+	}
+
+	.input__block {
+		width: 100%;
+	}
+
+	.login__main .login .form .login__button {
+		width: 100%;
+		height: calc(var(--index) * 5);
+		font-size: calc(var(--index) * 1.5);
+		margin-bottom: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .button {
+		width: 100%;
+		height: calc(var(--index) * 5);
+	}
+
+	.login__main .login .form .button a {
+		font-size: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .loginby {
+		font-size: calc(var(--index)* 1.2);
+		margin: calc(var(--index) * 2) 0 calc(var(--index) * 2);
+	}
+
+	.login__main .login .form .bysocial .social {
+		width: calc(var(--index)* 4);
+		height: calc(var(--index)* 4);
+	}
+}
+
+@media (max-width: 509px) and (min-width: 410px) {
+	.login__main .login .form {
+		width: 100%;
+		height: 100vh;
+	}
+
+	.login__main .login {
+		display: flex;
+	}
+
+	form.form__org {
+		margin-top: calc(var(--index) * 2.5);
+	}
+
+	.login__main .login .form .logo__block .logo {
+		width: calc(var(--index) * 5);
+	}
+
+	.login__main .login .form .logo__block .login__title {
+		font-size: calc(var(--index)* 2.3);
+	}
+
+	.login__main .login .form .input__box {
+		row-gap: calc(var(--index) * 1.5);
+		margin-bottom: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .input__box .login__input {
+		width: 100%;
+		height: calc(var(--index) * 5);
+		font-size: calc(var(--index) * 1.5);
+		padding-left: calc(var(--index) * 2);
+	}
+
+	.input__block {
+		width: 100%;
+	}
+
+	.login__main .login .form .login__button {
+		width: 100%;
+		height: calc(var(--index) * 5);
+		font-size: calc(var(--index) * 1.5);
+		margin-bottom: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .button {
+		width: 100%;
+		height: calc(var(--index) * 5);
+	}
+
+	.login__main .login .form .button a {
+		font-size: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .loginby {
+		font-size: calc(var(--index)* 1.2);
+		margin: calc(var(--index) * 2) 0 calc(var(--index) * 2);
+	}
+
+	.login__main .login .form .bysocial .social {
+		width: calc(var(--index)* 4);
+		height: calc(var(--index)* 4);
+	}
+}
+
+@media (max-width: 410px) and (min-width: 320px) {
+	.login__main .login .form {
+		width: 100%;
+		height: 100vh;
+	}
+
+	.login__main .login {
+		display: flex;
+	}
+
+	form.form__org {
+		margin-top: calc(var(--index) * 2.5);
+	}
+
+	.login__main .login .form .logo__block .logo {
+		width: calc(var(--index) * 5);
+	}
+
+	.login__main .login .form .logo__block .login__title {
+		font-size: calc(var(--index)* 2.3);
+	}
+
+	.login__main .login .form .input__box {
+		row-gap: calc(var(--index) * 1.5);
+		margin-bottom: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .input__box .login__input {
+		width: 100%;
+		height: calc(var(--index) * 5);
+		font-size: calc(var(--index) * 1.5);
+		padding-left: calc(var(--index) * 2);
+	}
+
+	.input__block {
+		width: 100%;
+	}
+
+	.login__main .login .form .login__button {
+		width: 100%;
+		height: calc(var(--index) * 5);
+		font-size: calc(var(--index) * 1.5);
+		margin-bottom: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .button {
+		width: 100%;
+		height: calc(var(--index) * 5);
+	}
+
+	.login__main .login .form .button a {
+		font-size: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .loginby {
+		font-size: calc(var(--index)* 1.2);
+		margin: calc(var(--index) * 2) 0 calc(var(--index) * 2);
+	}
+
+	.login__main .login .form .bysocial .social {
+		width: calc(var(--index)* 4);
+		height: calc(var(--index)* 4);
+	}
+}
+
+@media (max-width: 320px) and (min-width: 220px) {
+	.login__main .login .form {
+		width: 100%;
+		height: 100vh;
+	}
+
+	.login__main .login {
+		display: flex;
+	}
+
+	form.form__org {
+		margin-top: calc(var(--index) * 2.5);
+	}
+
+	.login__main .login .form .logo__block .logo {
+		width: calc(var(--index) * 5);
+	}
+
+	.login__main .login .form .logo__block .login__title {
+		font-size: calc(var(--index)* 2.3);
+	}
+
+	.login__main .login .form .input__box {
+		row-gap: calc(var(--index) * 1.5);
+		margin-bottom: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .input__box .login__input {
+		width: 100%;
+		height: calc(var(--index) * 5);
+		font-size: calc(var(--index) * 1.5);
+		padding-left: calc(var(--index) * 2);
+	}
+
+	.input__block {
+		width: 100%;
+	}
+
+	.login__main .login .form .login__button {
+		width: 100%;
+		height: calc(var(--index) * 5);
+		font-size: calc(var(--index) * 1.5);
+		margin-bottom: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .button {
+		width: 100%;
+		height: calc(var(--index) * 5);
+	}
+
+	.login__main .login .form .button a {
+		font-size: calc(var(--index) * 1.5);
+	}
+
+	.login__main .login .form .loginby {
+		font-size: calc(var(--index)* 1.2);
+		margin: calc(var(--index) * 2) 0 calc(var(--index) * 2);
+	}
+
+	.login__main .login .form .bysocial .social {
+		width: calc(var(--index)* 4);
+		height: calc(var(--index)* 4);
+	}
+}

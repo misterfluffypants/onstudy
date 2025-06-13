@@ -1,0 +1,16 @@
+.footer {
+	.footer__box {
+		display: flex;
+		justify-content: space-between;
+		margin: calc(var(--index) * 5) 0 calc(var(--index) * 4);
+
+		.footer__text {
+			font-size: calc(var(--index) * 1.2);
+		}
+
+		.social__links {
+			display: flex;
+			column-gap: calc(var(--index) * 1.3);
+		}
+	}
+}

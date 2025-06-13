@@ -1,0 +1,21 @@
+{
+	"users": [
+		{
+			"id": "2d15",
+			"email": "misterpusistyestany@gmail.com",
+			"name": "nurzhigit",
+			"password": "1234qwer",
+			"coursesBought": [
+				"IELTS",
+				"Java"
+			]
+		},
+		{
+			"id": "56c4",
+			"name": "carti",
+			"email": "playboicarti@2024.opium",
+			"password": "1234qwer",
+			"coursesBought": []
+		}
+	]
+}

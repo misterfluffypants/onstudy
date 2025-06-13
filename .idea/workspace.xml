@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8871925-f11c-48a2-9f08-ae1aa111a1cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Grafier_-_Free_for_personal_use/PP Grafier - Free for personal use/EULA-PangramPangram-FreeForPersonalUse-MAY2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Grafier_-_Free_for_personal_use/PP Grafier - Free for personal use/PPGrafier-Black.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Grafier_-_Free_for_personal_use/PP Grafier - Free for personal use/PPGrafier-BlackDisplay.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Grafier_-_Free_for_personal_use/PP Grafier - Free for personal use/PPGrafier-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Grafier_-_Free_for_personal_use/PP Grafier - Free for personal use/PPGrafier-RegularDisplay.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/EULA-PangramPangram-FreeForPersonalUse-MAY2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-CompactBlack.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-CompactDark.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-CompactFineItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-Medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-MediumItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-NarrowLight.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-SpatialBlack.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-SpatialBlackItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-SpatialFine.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-TallFine.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-TallRegular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-TightMedium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-WideBlack.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-WideMedium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/PP_Right_Sans_-_Free_for_personal_use_v1.0/PP Right Sans - Free for personal use v1.0/PPRightSans-WideMediumItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about_onstudy/sections/founders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about_onstudy/sections/founders.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about_onstudy/sections/hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about_onstudy/sections/hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about_onstudy/sections/statictics.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about_onstudy/sections/statictics.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/sections/all-courses.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/sections/all-courses.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/sections/free-courses.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/sections/free-courses.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/sections/users-courses.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/sections/users-courses.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/sections/about_us.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/sections/about_us.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/sections/choice.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/sections/choice.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/sections/hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/sections/hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/sections/mentors.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/sections/mentors.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/sections/popelar_courses.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/sections/popelar_courses.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/sections/statistics.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/sections/statistics.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/login/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/singin/singin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/singin/singin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/components/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/components/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/about_onstudy/sections/found.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/about_onstudy/sections/hero.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/about_onstudy/sections/statictics.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/courses/sections/all-courses.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/courses/sections/free-courses.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/courses/sections/users-courses.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/home/sections/about_us.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/home/sections/choice.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/home/sections/hero.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/home/sections/mentors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/home/sections/popular_courses.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/home/sections/statistics.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/login/login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/pages/login/login.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/pages/singin/singin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/reset.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2e8CONwHs8akkBiavbUcGyaWjYG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8871925-f11c-48a2-9f08-ae1aa111a1cf" name="Changes" comment="" />
+      <created>1711276871704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711276871704</updated>
+      <workItem from="1711276960006" duration="467000" />
+    </task>
+    <servers />
+  </component>
+</project>

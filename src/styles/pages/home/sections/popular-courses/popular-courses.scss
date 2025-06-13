@@ -1,0 +1,50 @@
+.popular__courses {
+
+	padding-bottom: calc(var(--index) * 6);
+
+	.popular__courses-text-content {
+		display: flex;
+		justify-content: space-between;
+		align-items: start;
+		margin: calc(var(--index) * 6) 0 calc(var(--index)* 3);
+
+		.popular__courses-title {
+			font-size: calc(var(--index) * 2.3);
+			color: #AA37F5;
+		}
+
+		.popular__courses-text {
+			width: calc(var(--index) * 30);
+			font-size: calc(var(--index) * 1.3);
+		}
+	}
+
+	.row {
+		display: flex;
+		flex-wrap: wrap;
+		gap: calc(var(--index) * 1.1) calc(var(--index) * .69);
+
+		.course__card {
+			width: calc(var(--index) * 27.15);
+			height: calc(var(--index) * 11);
+
+			.box {
+
+				.course__box-card-left {
+					.course__text {
+						font-size: calc(var(--index) * 1.3);
+					}
+
+					.course__name {
+						font-size: calc(var(--index) * 1.6);
+						margin: calc(var(--index) * .7) 0 calc(var(--index) * 3.9);
+					}
+
+					.price {
+						font-size: calc(var(--index) * .8);
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,116 @@
+{
+  "courses": [
+    {
+      "id": "720a",
+      "name": "IELTS",
+      "type": "Курс",
+      "price": "50.000 Сом",
+      "image": "https://cdn.leonardo.ai/users/d3ba7545-4249-40e9-8c62-dd961a09ddf2/generations/719981bb-4344-4997-9f59-e63d15b748a4/Default_draw_a_frog_as_it_passes_IELTS_and_make_it_cartoonish_2.jpg?w=512",
+      "categories": [
+        {
+          "name": "О курсе",
+          "videos": [
+            {
+              "name": "Вводный урок",
+              "videoImage": "link",
+              "duration": "24h",
+              "UrlVideo": "https://www.youtube.com/embed/zecADHk0kJE?si=E8Qnkb12mDd4GFgo"
+            }
+          ]
+        },
+        {
+          "name": "Введение в IELTS",
+          "videos": [
+            {
+              "name": "История IELTS",
+              "videoImage": "link",
+              "duration": "25 мин.",
+              "UrlVideo": "https://www.youtube.com/embed/YosBYK470ww?si=7a20t3-7f4OsXrRW"
+            },
+            {
+              "name": "Жанры и IELTS платформы",
+              "videoImage": "link",
+              "duration": "17 мин.",
+              "UrlVideo": "https://www.youtube.com/embed/i_DFpKZebi8?si=RarFjofX6f7zj755"
+            },
+            {
+              "name": "Актуальное состояние рынка IELTS",
+              "videoImage": "link",
+              "duration": "24 мин.",
+              "UrlVideo": "https://www.youtube.com/embed/i_DFpKZebi8?si=RarFjofX6f7zj755"
+            }
+          ]
+        },
+        {
+          "name": "Визуальная составляющая IELTS",
+          "videos": [
+            {
+              "name": "Концепт-арт в IELTS",
+              "videoImage": "link",
+              "duration": "17 мин.",
+              "UrlVideo": "https://www.youtube.com/embed/5bBUFuB2BaI?si=Jdn-De0WreKNJVo6"
+            },
+            {
+              "name": "3D-моделирование в IELTS",
+              "videoImage": "link",
+              "duration": "16 мин.",
+              "UrlVideo": "https://www.youtube.com/embed/5NBqbUUB1Pk?si=CxMzk5kvZ5S0UKns"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bdec",
+      "name": "Как учиться в OnStudy. Курс-знакомство",
+      "type": "Курс",
+      "price": "Бесплатно",
+      "image": "https://cdn.leonardo.ai/users/724af310-70da-48e0-b009-4fdbfd19b23f/generations/231325b3-a1f7-4a7e-b80b-e96843006e45/Leonardo_Diffusion_XL_Incredible_attention_to_detail_showcases_1.jpg?w=512",
+      "categories": [
+        {
+          "name": "Как использовать платформу",
+          "videos": [
+            {
+              "name": "Добро пожаловать",
+              "videoImage": "link",
+              "duration": "2 мин.",
+              "UrlVideo": "https://www.youtube.com/embed/zecADHk0kJE?si=E8Qnkb12mDd4GFgo"
+            },
+            {
+              "name": "Как устроена платформа OnStudy",
+              "videoImage": "link",
+              "duration": "24h",
+              "UrlVideo": "https://www.youtube.com/embed/zecADHk0kJE?si=E8Qnkb12mDd4GFgo"
+            },
+            {
+              "name": "Как учиться на платформе OnStudy",
+              "videoImage": "link",
+              "duration": "24h",
+              "UrlVideo": "https://www.youtube.com/embed/zecADHk0kJE?si=E8Qnkb12mDd4GFgo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1080800925108,
+      "name": "ASASAS",
+      "type": "asa",
+      "price": "sdasdsa",
+      "image": "dasdas",
+      "categories": [
+        {
+          "name": "dasdasd",
+          "videos": [
+            {
+              "name": "adsasdsa",
+              "duration": "dasda",
+              "url": "dasdasd",
+              "image": "asdasdasd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

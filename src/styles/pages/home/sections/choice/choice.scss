@@ -1,0 +1,18 @@
+.choice {
+	.choice__title {
+		font-size: calc(var(--index) * 2.3);
+		color: #AA37F5;
+		margin-bottom: calc(var(--index) * 1.5);
+	}
+
+	.box__flex {
+		display: flex;
+		justify-content: space-between;
+		// margin-bottom: calc(var(--index) * 20);
+
+		.choice__text {
+			width: calc(var(--index) * 28);
+			font-size: calc(var(--index) * 1);
+		}
+	}
+}

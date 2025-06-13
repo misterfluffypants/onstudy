@@ -1,0 +1,248 @@
+@media (max-width: 1346px) and (min-width: 1075px) {}
+
+@media (max-width: 1075px) and (min-width: 900px) {
+	.popular__courses .popular__courses-text-content .popular__courses-text {
+		width: calc(var(--index)* 25);
+		font-size: calc(var(--index)* 1.3);
+	}
+
+	.popular__courses .row .course__card {
+		width: 100%;
+		height: calc(var(--index) * 15);
+		padding: calc(var(--index)* 1) calc(var(--index)* 1.5);
+	}
+
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__text {
+		font-size: calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__name {
+		font-size: calc(var(--index)* 2.5);
+		margin-bottom: calc(var(--index)* 3.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .price {
+		font-size: calc(var(--index)* 1.2);
+	}
+
+	.course__card .box .course__box-card-right {
+		width: calc(var(--index)* 6);
+		height: calc(var(--index)* 6);
+	}
+}
+
+@media (max-width: 900px) and (min-width: 768px) {
+	.popular__courses .popular__courses-text-content .popular__courses-text {
+		width: calc(var(--index)* 20);
+		font-size: calc(var(--index)* 1.3);
+	}
+
+	.popular__courses .row .course__card {
+		width: 100%;
+		height: calc(var(--index) * 15);
+		padding: calc(var(--index)* 1) calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__text {
+		font-size: calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__name {
+		font-size: calc(var(--index)* 2.5);
+		margin-bottom: calc(var(--index)* 5.2);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .price {
+		font-size: calc(var(--index)* 1.2);
+	}
+
+	.course__card .box .course__box-card-right {
+		width: calc(var(--index)* 5);
+		height: calc(var(--index)* 5);
+	}
+}
+
+@media (max-width: 768px) and (min-width: 620px) {
+	.popular__courses .popular__courses-text-content .popular__courses-text {
+		width: calc(var(--index)* 20);
+		font-size: calc(var(--index)* 1);
+	}
+
+	.popular__courses .popular__courses-text-content .popular__courses-title {
+		font-size: calc(var(--index)* 2);
+	}
+
+	.popular__courses .row .course__card {
+		width: 100%;
+		height: calc(var(--index) * 15);
+		padding: calc(var(--index)* 1) calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__text {
+		font-size: calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__name {
+		font-size: calc(var(--index)* 2.5);
+		margin-bottom: calc(var(--index)* 5.2);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .price {
+		font-size: calc(var(--index)* 1.2);
+	}
+
+	.course__card .box .course__box-card-right {
+		width: calc(var(--index)* 4);
+		height: calc(var(--index)* 4);
+	}
+}
+
+@media (max-width: 620px) and (min-width: 509px) {
+	.popular__courses .popular__courses-text-content .popular__courses-text {
+		width: calc(var(--index)* 15);
+		font-size: calc(var(--index)* 1);
+	}
+
+	.popular__courses .popular__courses-text-content .popular__courses-title {
+		font-size: calc(var(--index)* 2);
+	}
+
+	.popular__courses .row .course__card {
+		width: 100%;
+		height: calc(var(--index) * 15);
+		padding: calc(var(--index)* 1) calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__text {
+		font-size: calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__name {
+		font-size: calc(var(--index)* 2.5);
+		margin-bottom: calc(var(--index)* 5.2);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .price {
+		font-size: calc(var(--index)* 1.2);
+	}
+
+	.course__card .box .course__box-card-right {
+		width: calc(var(--index)* 3);
+		height: calc(var(--index)* 3);
+	}
+}
+
+@media (max-width: 509px) and (min-width: 410px) {
+	.popular__courses .popular__courses-text-content {
+		display: block;
+	}
+
+	.popular__courses .popular__courses-text-content .popular__courses-text {
+		width: 100%;
+		font-size: calc(var(--index)* 1.3);
+		margin-top: calc(var(--index)* 1);
+	}
+
+	.popular__courses .popular__courses-text-content .popular__courses-title {
+		font-size: calc(var(--index)* 2);
+	}
+
+	.popular__courses .row .course__card {
+		width: 100%;
+		height: calc(var(--index) * 15);
+		padding: calc(var(--index)* 1) calc(var(--index)* 1.5) 0;
+	}
+
+	.popular__courses .row .course__card .box {
+		height: calc(var(--index) * 15);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__text {
+		font-size: calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__name {
+		font-size: calc(var(--index)* 2.5);
+		/* margin-bottom: calc(var(--index)* 5.2); */
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .price {
+		font-size: calc(var(--index)* 1.2);
+	}
+
+	.course__card .box .course__box-card-right {
+		width: calc(var(--index)* 2);
+		height: calc(var(--index)* 2);
+	}
+}
+
+@media (max-width: 410px) and (min-width: 320px) {
+	.popular__courses .popular__courses-text-content {
+		display: block;
+	}
+
+	.popular__courses .popular__courses-text-content .popular__courses-text {
+		width: 100%;
+		font-size: calc(var(--index)* 1.3);
+		margin-top: calc(var(--index)* 1);
+	}
+
+	.popular__courses .popular__courses-text-content .popular__courses-title {
+		font-size: calc(var(--index)* 2);
+	}
+
+	.popular__courses .row .course__card {
+		width: 100%;
+		height: calc(var(--index) * 15);
+		padding: calc(var(--index)* 1) calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__text {
+		font-size: calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__name {
+		font-size: calc(var(--index)* 2);
+		margin-bottom: calc(var(--index)* 5.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .price {
+		font-size: calc(var(--index)* 1.2);
+	}
+}
+
+@media (max-width: 320px) and (min-width: 220px) {
+	.popular__courses .popular__courses-text-content {
+		display: block;
+	}
+
+	.popular__courses .popular__courses-text-content .popular__courses-text {
+		width: 100%;
+		font-size: calc(var(--index)* 1.3);
+		margin-top: calc(var(--index)* 1);
+	}
+
+	.popular__courses .popular__courses-text-content .popular__courses-title {
+		font-size: calc(var(--index)* 2);
+	}
+
+	.popular__courses .row .course__card {
+		width: 100%;
+		height: calc(var(--index) * 15);
+		padding: calc(var(--index)* 1) calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__text {
+		font-size: calc(var(--index)* 1.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .course__name {
+		font-size: calc(var(--index)* 2);
+		margin-bottom: calc(var(--index)* 3.5);
+	}
+
+	.popular__courses .row .course__card .box .course__box-card-left .price {
+		font-size: calc(var(--index)* 1.2);
+	}
+}

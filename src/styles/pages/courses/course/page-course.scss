@@ -1,0 +1,115 @@
+.page__course {
+	padding-top: calc(var(--index) * 7);
+	height: 100vh;
+
+	.page__course-main {
+		.row {
+			display: flex;
+			column-gap: calc(var(--index) * 5);
+
+			.page__course-main-left {
+
+				.page__course-main-left-card {
+					padding: calc(var(--index) * 1.25);
+					background: #8844F7;
+					border-radius: calc(var(--index) * .5);
+
+					.page__course-main-left-card-box {
+						display: flex;
+						justify-content: space-between;
+
+						.page__course-main-left-card-left {
+							width: calc(var(--index) * 13);
+
+							.page__course-main-left-card-name {
+								color: #4A16A1;
+								font-size: calc(var(--index) * 1.35);
+								margin: calc(var(--index) * .4) 0 calc(var(--index) * 2.8);
+							}
+
+							.page__course-main-left-card-video-count {
+								color: #BD97FB;
+								font-size: calc(var(--index) * .65);
+							}
+						}
+
+						.page__course-main-left-card-right {
+							overflow: hidden;
+							width: calc(var(--index) * 4);
+							height: calc(var(--index) * 4);
+							border-radius: calc(var(--index) * .5);
+						}
+					}
+				}
+			}
+
+			.page__course-main-right {
+				width: 100%;
+
+				.page__course-main-right-button {
+					cursor: pointer;
+					margin-bottom: calc(var(--index) * 1);
+
+					.line {
+						width: 100%;
+						height: calc(var(--index) * .1);
+						background: #AA37F5;
+						margin-bottom: calc(var(--index) * .5);
+					}
+
+					.page__course-main-right-button-box {
+						display: flex;
+						justify-content: space-between;
+						align-items: center;
+
+						.category__name {
+							font-size: calc(var(--index) * 1.2);
+							color: #AA37F5;
+						}
+
+						.arrow__down {
+							width: calc(var(--index) * 1);
+						}
+					}
+				}
+
+				.videos__row {
+					display: flex;
+					flex-wrap: wrap;
+					gap: calc(var(--index) * 1) calc(var(--index) * .9);
+					transition: var(--transition);
+
+					.video {
+						width: calc(var(--index) * 14.5);
+						margin-bottom: calc(var(--index) * 1);
+
+						.video__on-youtube {
+							width: 100%;
+							height: calc(var(--index) * 8.5);
+							border-radius: calc(var(--index) * .5);
+							margin-bottom: calc(var(--index) * .7);
+						}
+
+						.video__name {
+							width: 100%;
+							font-size: calc(var(--index) * 1);
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+.loading-main {
+	padding: calc(var(--index) * 11) 0 calc(var(--index) * 1);
+	text-align: center;
+	color: #4A16A1;
+	height: 100vh;
+
+	.loading {
+		font-size: calc(var(--index) * 10);
+		padding-bottom: calc(var(--index) * 1.2);
+		color: #fff;
+	}
+}

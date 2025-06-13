@@ -1,0 +1,41 @@
+.course__card {
+	width: calc(var(--index) * 17.869);
+	height: calc(var(--index) * 8.4);
+	background: #8844F7;
+	padding: calc(var(--index) * .8) calc(var(--index) * 1.2);
+	border-radius: calc(var(--index) * .5);
+
+	.box {
+		display: flex;
+		justify-content: space-between;
+
+		.course__box-card-left {
+			.course__text {
+				color: #BD97FB;
+				font-size: calc(var(--index) * .85);
+			}
+
+			.course__name {
+				color: #4A16A1;
+				font-size: calc(var(--index) * 1.35);
+				margin: calc(var(--index) * .4) 0 calc(var(--index) * 2.8);
+			}
+
+			.price {
+				color: #BD97FB;
+				font-size: calc(var(--index) * .65);
+			}
+		}
+
+		.course__box-card-right {
+			overflow: hidden;
+			width: calc(var(--index) * 4);
+			height: calc(var(--index) * 4);
+			border-radius: calc(var(--index) * .5);
+
+			.course__box-card-right img {
+				width: 100%;
+			}
+		}
+	}
+}

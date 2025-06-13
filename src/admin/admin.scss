@@ -1,0 +1,131 @@
+.admin {
+
+
+	.add__course-box {
+		flex-wrap: wrap;
+		display: flex;
+		row-gap: calc(var(--index) * 1.1);
+
+
+		.add__video-box {
+			width: 100%;
+
+			.add__new-video {
+				width: 100%;
+				display: flex;
+				flex-wrap: wrap;
+				row-gap: calc(var(--index) * 1.1);
+
+				.input {
+					width: 100%;
+
+				}
+
+				.add__new-video-btn {
+					display: flex;
+
+					.button {
+						background: #4A16A1;
+						color: #fff;
+					}
+				}
+
+			}
+		}
+	}
+
+
+}
+
+.admin__title {
+	font-size: calc(var(--index) * 1.4);
+	color: #AF44F6;
+	margin: calc(var(--index) * .5) 0 calc(var(--index) * .9);
+}
+
+.add__new-video-btn {
+	display: flex;
+	column-gap: calc(var(--index) * 1.2);
+
+	.button {
+		width: 100%;
+		background: #4A16A1;
+		color: #fff;
+		font-size: calc(var(--index) * 1);
+		padding: calc(var(--index) * 1.1) calc(var(--index) * 1.2) calc(var(--index) * 1.1) calc(var(--index) * 1.2);
+	}
+}
+
+.delete__video-btn {
+	width: 100%;
+	background: #4A16A1;
+	color: #fff;
+	font-size: calc(var(--index) * 1);
+	padding: calc(var(--index) * 1.1) 0 calc(var(--index) * 1.1) calc(var(--index) * 0);
+	margin: calc(var(--index) * 1.2) 0;
+}
+
+.add__category {
+	width: 100%;
+	display: flex;
+	column-gap: calc(var(--index) * 1.2);
+
+	.button {
+		width: 100%;
+		background: #4A16A1;
+		color: #fff;
+		font-size: calc(var(--index) * 1);
+		padding: calc(var(--index) * 1.1) calc(var(--index) * 1.2) calc(var(--index) * 1.1) calc(var(--index) * 1.2);
+	}
+}
+
+.input {
+	width: 100%;
+	height: calc(var(--index) * 1.75);
+	font-size: calc(var(--index) * .75);
+	border: 1px solid #a0a0a0;
+	padding: calc(var(--index) * 1.1) calc(var(--index) * 1.2) calc(var(--index) * 1.1) calc(var(--index) * 1.2);
+}
+
+.users {
+	display: block;
+
+	.user {
+		display: flex;
+		justify-content: space-between;
+
+		.user__name {
+			font-size: calc(var(--index) * 2);
+		}
+
+	}
+}
+
+.course {
+	display: flex;
+	justify-content: space-between;
+
+	.course__name {
+		font-size: calc(var(--index) * 2);
+	}
+}
+
+.delete__button {
+	width: calc(var(--index) * 10);
+	background: #990202;
+	color: #fff;
+}
+
+.add__course-category-name {
+	margin-bottom: calc(var(--index) * 1.2);
+}
+
+.delete {
+	background: #990202;
+}
+
+.add__new-video-btn {
+	.delete {
+		background: #990202;
+	}
+}

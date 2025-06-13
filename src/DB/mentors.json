@@ -1,0 +1,67 @@
+{
+	"mentors": [
+		{
+			"firstName": "Антон",
+			"lastName": "Павлович",
+			"photoLinkUrl": "https://images.trustinnews.pt/uploads/sites/4/2019/09/1335958124581900.jpg",
+			"description": " опытный куратор IELTS, обеспечивает успешную подготовку к экзамену",
+			"courseCurator": "IELTS"
+		},
+		{
+			"firstName": "Дмитрий",
+			"lastName": "Иванов",
+			"photoLinkUrl": "https://th.bing.com/th/id/R.f8a97ae8921134fcc067fe217d07a097?rik=QQOHK5mInYL4zQ&pid=ImgRaw&r=0",
+			"description": "опытный куратор по подготовке к экзамену SAT Math, обеспечивает эффективное обучение и достижение высоких результатов.",
+			"courseCurator": "SAT Math"
+		},
+		{
+			"firstName": "Ирина",
+			"lastName": "Смирнова",
+			"photoLinkUrl": "https://th.bing.com/th/id/OIP.oPjZOk9eOxzulAo7wHQgbgAAAA?w=474&h=706&rs=1&pid=ImgDetMain",
+			"description": "опытный куратор по Java, обеспечивает качественную подготовку к экзамену и успешные результаты.",
+			"courseCurator": "Java"
+		},
+		{
+			"firstName": "Иосиф",
+			"lastName": "Сралин",
+			"photoLinkUrl": "link",
+			"description": "опытный куратор по USSR, обеспечивает качественную подготовку к экзамену и успешные результаты.",
+			"courseCurator": "USSR"
+		},
+		{
+			"firstName": "Джон",
+			"lastName": "Кенедди",
+			"photoLinkUrl": "link",
+			"description": "опытный куратор по USA, обеспечивает качественную подготовку к экзамену и успешные результаты.",
+			"courseCurator": "USA"
+		},
+		{
+			"firstName": "Джимми",
+			"lastName": "Маггил",
+			"photoLinkUrl": "link",
+			"description": "опытный куратор по Лоер, обеспечивает качественную подготовку к экзамену и успешные результаты.",
+			"courseCurator": "Лоер"
+		},
+		{
+			"firstName": "Волтер",
+			"lastName": "Вайт",
+			"photoLinkUrl": "link",
+			"description": "опытный куратор по Химии, обеспечивает качественную подготовку к экзамену и успешные результаты.",
+			"courseCurator": "Химия"
+		},
+		{
+			"firstName": "Chief Keef",
+			"lastName": "Смирнова",
+			"photoLinkUrl": "link",
+			"description": "опытный куратор по NIGGA, обеспечивает качественную подготовку к экзамену и успешные результаты.",
+			"courseCurator": "NIGGA"
+		},
+		{
+			"firstName": "КТОТО",
+			"lastName": "СМЕТАНА",
+			"photoLinkUrl": "link",
+			"description": "опытный куратор по ХЗ, обеспечивает качественную подготовку к экзамену и успешные результаты.",
+			"courseCurator": "ХЗ"
+		}
+	]
+}

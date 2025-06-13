@@ -1,0 +1,5 @@
+@media (max-width: 1346px) and (min-width: 1075px) {
+	.container-header {
+		max-width: calc(var(--index) * 55);
+	}
+}
